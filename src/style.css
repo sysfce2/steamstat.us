@@ -1,3 +1,5 @@
+/*! Flags: circle-flags, MIT, Copyright (c) 2020 HatScripts */
+
 @font-face {
 	font-family: Inter;
 	font-style: normal;
@@ -463,18 +465,6 @@ noscript {
 @media screen and (max-width: 400px) {
 	.service {
 		font-size: 14px;
-	}
-}
-
-@keyframes stretch {
-	0%,
-	40%,
-	100% {
-		transform: scaleY(0.4);
-	}
-
-	20% {
-		transform: scaleY(1);
 	}
 }
 
